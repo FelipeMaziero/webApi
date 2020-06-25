@@ -1,0 +1,29 @@
+{
+  "name": "webapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelipeMaziero/webApi.git"
+  },
+  "author": "Felipe Maziero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FelipeMaziero/webApi/issues"
+  },
+  "homepage": "https://github.com/FelipeMaziero/webApi#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "mocha": "^8.0.1",
+    "supertest": "^4.0.2"
+  }
+}
