@@ -1,2 +1,2 @@
-��# Criação de um webApi no periodo da faculdade
+# Criação de um webApi no periodo da faculdade
 
